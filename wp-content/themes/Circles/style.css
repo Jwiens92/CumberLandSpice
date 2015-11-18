@@ -1,0 +1,43 @@
+/*
+
+Theme Name: Circles Wordpress Theme
+Theme URI: http://themeforest.net/item/circles-retina-responsive-multipurpose-theme/4739370
+Author URI:http://themeforest.net/user/ThemeSmack
+Description: Clean Corporate Theme
+Author: ThemeSmack Team
+Version: 3.1
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+
+/*.theme-one-third ul {
+	margin-bottom: 20px;
+}
+
+.theme-one-third ul li {
+	list-style: disc;
+	margin-left: 20px;
+}*/
+
+.logos {
+	margin: 0px 0px 20px;
+}
+
+.logos img {
+	margin: 0px 10px 0px 0px;
+}
+
+footer ul li.header {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 10px 0px 10px -10px;
+}
+
+footer ul li a {
+	color: #ccc;
+}
+
+footer ul li a:hover {
+	color: #bbb;
+}

@@ -1,0 +1,2417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Circles\n"
+"POT-Creation-Date: 2013-05-10 13:08+0100\n"
+"PO-Revision-Date: 2013-05-10 13:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: Medialayout Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: c:\\wamp\\www\\arenaofthemes\\circles\\wp-content"
+"\\themes\\circles\n"
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:28
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1137
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Multi_Posts_Widget.class.php:53
+msgid "Comments"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:29
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:62
+msgid "COMMENTS"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:47
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-gallery.php:24
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-single.php:30
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1280
+msgid "Previous"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:48
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-gallery.php:29
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-single.php:35
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1293
+msgid "Next"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:79
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1072
+msgid "Leave a Comment"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:80
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1085
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:81
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1098
+msgid "Cancel Comment"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:82
+msgid "SENT"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:93
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:94
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:96
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:102
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:71
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1228
+msgid "Name"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:102
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:111
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:71
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:79
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:87
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1241
+msgid "required"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/comments.php:111
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:79
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:985
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1254
+msgid "Email"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-aside.php:39
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-gallery.php:106
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-video.php:42
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content.php:42
+msgid "read more"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-page.php:20
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-single.php:108
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1527
+msgid "Pages:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-single.php:115
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1319
+msgid "About the author"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-template-portfolio-1.php:47
+msgid "Filter"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/content-template-portfolio-1.php:49
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1059
+msgid "All"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:36
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-blog-3.php:71
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/post-info.php:18
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1332
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/recent_posts.php:89
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Posts_Widget.class.php:63
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Multi_Posts_Widget.class.php:67
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Multi_Posts_Widget.class.php:98
+msgid "By"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:80
+msgid "just now"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:81
+msgid "1 minute ago"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:82
+msgid "minutes ago"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:83
+msgid "1 hour ago"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:84
+msgid "hours ago"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:85
+msgid "Yesterday"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:86
+msgid "days ago"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:87
+msgid "weeks ago"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:88
+msgid "months ago"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:89
+msgid "1 year ago"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/footer.php:90
+msgid "years ago"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:218
+msgid "Primary Menu"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:383
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:384
+msgid "Portfolio"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:404
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:435
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1345
+msgid "Categories"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:405
+msgid "Category"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:414
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:415
+msgid "FAQ"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:445
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:457
+msgid "Team Members"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:446
+msgid "Team Member"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:447
+msgid "Add New"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:448
+msgid "Add New Team Member"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:449
+msgid "Edit Team Member"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:450
+msgid "New Team Member"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:451
+msgid "All Team Members"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:452
+msgid "View Team Member"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:453
+msgid "Search Team Members"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:454
+msgid "No team members found"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:455
+msgid "No team member found in Trash"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:486
+msgid "Enter team member name here"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:561
+msgid "Main Sidebar"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:572
+msgid "Footer Area"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:584
+msgid "Prefooter Area"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:720
+msgid "Style 1 (default)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:725
+msgid "Style 2"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:730
+msgid "Style 3"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:740
+msgid "Page builder"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:743
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:744
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:745
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:746
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:747
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:748
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/functions.php:749
+msgid "Content area"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/header.php:34
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/no-results.php:12
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1618
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/single-portfolio.php:33
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/single-portfolio.php:35
+msgid "previous"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/single-portfolio.php:44
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/single-portfolio.php:46
+msgid "next"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/single-portfolio.php:161
+msgid "project info"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/single-portfolio.php:166
+msgid "project details"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/single-portfolio.php:201
+msgid "related works"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/single.php:38
+msgid "previous post"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/single.php:39
+msgid "next post"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:23
+msgid "Please fill all required fields."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:29
+msgid "Please check your email."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:38
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1735
+msgid "Email sent. Thank you for contacting us"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:42
+msgid "Server error. Pease try again later."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:64
+msgid "Contact form"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:87
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1761
+msgid "Your message"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:94
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1774
+msgid "Send"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/template-contact-form-1.php:95
+msgid "Clear"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:99
+msgid "Available shortcodes:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:111
+msgid "Click to toggle"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:172
+msgid "Main"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:192
+msgid "Shortcodes"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:205
+msgid "Post Options"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:213
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:602
+msgid "Video URL"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:214
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:603
+msgid "YouTube or Vimeo video URL"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:222
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:611
+msgid "Embadded Video"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:223
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:612
+msgid ""
+"Please use this option when the video does not come from YouTube or Vimeo"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:231
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:620
+msgid "Gallery"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:232
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:621
+msgid "Slider gallery images"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:243
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:631
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:589
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:738
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1092
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1144
+msgid "Image"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:256
+msgid "Featured image align"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:264
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:274
+msgid "Center"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:269
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:303
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:506
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:269
+msgid "Left"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:274
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:313
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:516
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:279
+msgid "Right"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:281
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:484
+msgid "Slider"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:282
+msgid "Select a slider for this post"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:290
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:493
+msgid "Sidebar position"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:291
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:494
+msgid "Select a sidebar position"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:298
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:413
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:438
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:501
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:582
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:376
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:400
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:830
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:978
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1034
+msgid "No"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:308
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:511
+msgid "2 Left"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:318
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:521
+msgid "2 Right"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:323
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:526
+msgid "Both"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:330
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:533
+msgid "Left sidebar"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:339
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:542
+msgid "Left sidebar 2"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:348
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:551
+msgid "Right sidebar"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:357
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:560
+msgid "Right sidebar 2"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:370
+msgid "Page Options"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:378
+msgid "Page Builder"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:387
+msgid "Map"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:388
+msgid "Please insert map into editor below"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:396
+msgid "Header background"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:397
+msgid "Add your image to activate header background"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:405
+msgid "Enable big header background"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:418
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:433
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:577
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:371
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:395
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:825
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:973
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1039
+msgid "Yes"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:425
+msgid "Header background grid"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:445
+msgid "Titlebar"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:453
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1841
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1950
+msgid "Default"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:458
+msgid "Only title"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:463
+msgid "Only breadcrumbs"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:468
+msgid "No titlebar"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:475
+msgid "Title bar text color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:485
+msgid "Header and title are hidden where slider is selected"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:569
+msgid "Show page content"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:570
+msgid "Show the content from the page editor"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:594
+msgid "Portfolio Options"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:644
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:141
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:209
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:282
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:572
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:721
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:957
+msgid "URL"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:653
+msgid "Project details"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:667
+msgid "Team Options"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:675
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:226
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:993
+msgid "Position"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:682
+msgid "Short description"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:689
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:901
+msgid "Facebook URL"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:690
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:697
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:704
+msgid "Icon appers if not empty"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:696
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:913
+msgid "Twitter URL"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:703
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:925
+msgid "Skype username"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:710
+msgid "Skills"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:720
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:892
+msgid "Percentage"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/meta-boxes.php:747
+msgid "Choose"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:65
+msgid "Accordion"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:72
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:246
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:348
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:649
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1008
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1080
+msgid "Style"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:75
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:370
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1010
+msgid "normal"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:76
+msgid "boxed"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:81
+msgid "Open first"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:84
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:435
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1020
+msgid "yes"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:85
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:436
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1019
+msgid "no"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:89
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:714
+msgid "Add Item"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:94
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:490
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:543
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:898
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:947
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1060
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1108
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1149
+msgid "Title"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:99
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:183
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:262
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:330
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:378
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:411
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:443
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:495
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:548
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:668
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:694
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1065
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1176
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1228
+msgid "Content"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:103
+msgid "Accordion item"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:109
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1154
+msgid "Button"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:111
+msgid "color - text color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:112
+msgid "background - background color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:113
+msgid "size - small, regular, large - default: regular"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:114
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:170
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:559
+msgid "target - _blank, _parent, _self, _top"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:120
+msgid "Text color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:125
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:325
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:186
+msgid "Background color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:130
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:368
+msgid "Size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:132
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:200
+msgid "small"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:133
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:201
+msgid "regular"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:134
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:202
+msgid "large"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:146
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:214
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:287
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:478
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:531
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:577
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:726
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:962
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1123
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1164
+msgid "Target"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:148
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:216
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:289
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:480
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:533
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:579
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:728
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:964
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1125
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1166
+msgid "_blank"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:149
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:217
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:290
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:481
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:534
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:580
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:729
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:965
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1126
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1167
+msgid "_parent"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:150
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:218
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:291
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:482
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:535
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:581
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:730
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:966
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1127
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1168
+msgid "_self"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:151
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:219
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:292
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:483
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:536
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:582
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:731
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:967
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1128
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1169
+msgid "_top"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:158
+msgid "Button text"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:166
+msgid "Call To Action"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:168
+msgid "color - gray, black, red, orange, blue, green"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:169
+msgid "size - small, regular, large"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:171
+msgid "position - left, right, bottom"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:178
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:267
+msgid "Button label"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:188
+msgid "Button color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:193
+msgid "Button hover color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:198
+msgid "Button size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:228
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:361
+msgid "left"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:229
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:362
+msgid "right"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:230
+msgid "bottom"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:239
+msgid "Call To Action 2"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:248
+msgid "1"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:249
+msgid "2"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:250
+msgid "3 (wide with gradient background)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:257
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:604
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:623
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:710
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:853
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1204
+msgid "Header"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:272
+msgid "Button background color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:277
+msgid "Button hover background color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:301
+msgid "Dropcaps"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:303
+msgid "type - circle - optional"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:310
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:398
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:513
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:683
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:793
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:872
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1194
+msgid "Type"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:312
+msgid "circle"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:313
+msgid "standard"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:320
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:428
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:903
+msgid "Color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:337
+msgid "Divider"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:339
+msgid "align - left, right, center"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:340
+msgid "size - smaller, normal, larger"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:341
+msgid "scrolltext - optional"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:358
+msgid "Text align"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:360
+msgid "center"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:371
+msgid "smaller"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:372
+msgid "larger"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:383
+msgid "Scroll to top text"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:384
+msgid "Leave empty to disable scrolling"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:391
+msgid "Heading"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:418
+msgid "Highlight"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:420
+msgid "color - background color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:421
+msgid "fullwidth - yes, no - from edge to edge of the screen"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:433
+msgid "Full width"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:450
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:457
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:508
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:936
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1041
+msgid "Icon"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:473
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:526
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1118
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1159
+msgid "Url"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:502
+msgid "Icons"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:506
+msgid "Add Icon"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:516
+msgid "img-1"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:517
+msgid "img-2"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:518
+msgid "img-3"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:556
+msgid "Images Slider"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:558
+msgid "url - optional"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:565
+msgid "Add Slider Item"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:567
+msgid "Sliders item"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:597
+msgid "Latest posts"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:609
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:858
+msgid "Posts limit"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:616
+msgid "Latest works"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:628
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:830
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1002
+msgid "Description"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:633
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:807
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1214
+msgid "Limit"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:640
+msgid "List"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:642
+msgid ""
+"type - icon-ok, icon-check, icon-check-empty, icon-circle, icon-angle-right, "
+"icon-check-empty"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:661
+msgid "Add List Item"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:663
+msgid "List item"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:676
+msgid "Message"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:677
+msgid "type - info, alert, success, error"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:685
+msgid "info"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:686
+msgid "alert"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:687
+msgid "success"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:688
+msgid "error"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:701
+msgid "Our clients"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:716
+msgid "Items"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:746
+msgid "Person"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:753
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:767
+msgid "Person ID"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:760
+msgid "Person details"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:774
+msgid "Posts slider"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:776
+msgid "id - included posts (optional)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:777
+msgid "post_type - post type to show (default: post)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:778
+msgid "category - list of categories to show or to exclude (optional)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:779
+msgid "orderby - sort retrieved posts by parameter (default: date)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:780
+msgid "order - designates the ascending or descending order (default: DESC)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:781
+msgid "description - no, excerpt - show or hide description (default: excerpt)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:788
+msgid "Post IDs (comma separated)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:795
+msgid "post"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:796
+msgid "page"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:802
+msgid "Category IDs (comma separated)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:812
+msgid "Order By"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:814
+msgid "date"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:815
+msgid "title"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:821
+msgid "Order"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:823
+msgid "DESC"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:824
+msgid "ASC"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:832
+msgid "hidden"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:833
+msgid "excerpt"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:839
+msgid "Excerpt words limit"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:846
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/latest_posts.php:11
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/recent_posts.php:11
+msgid "Recent posts"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:865
+msgid "Skill bars"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:874
+msgid "Horizontal"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:875
+msgid "Vertical"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:881
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:918
+msgid "Height (px)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:882
+msgid "For vertical type only"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:885
+msgid "Add Skill Bar"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:887
+msgid "Skill bar"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:911
+msgid "Space"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:925
+msgid "Steps"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:929
+msgid "Add Step"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:931
+msgid "Step"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:938
+msgid "Brain"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:939
+msgid "Bulb"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:940
+msgid "Zen"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:952
+msgid "Subtitle"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:977
+msgid "Tabs"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:984
+msgid "Orientation"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:986
+msgid "horizontal"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:987
+msgid "vertical"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:995
+msgid "top-left"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:996
+msgid "top-right"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:997
+msgid "top-center"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:998
+msgid "top-compact"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:999
+msgid "bottom-left"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1000
+msgid "bottom-center"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1001
+msgid "bottom-right"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1002
+msgid "bottom-compact"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1004
+msgid ""
+"When orientation option is set to \"vertical\", \"only top-left\" and \"top-"
+"right\" is supported!"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1011
+msgid "underline"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1017
+msgid "Autoplay"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1026
+msgid "Animation"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1028
+msgid "fadeIn"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1029
+msgid "slideDown"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1034
+msgid "Add Tab"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1036
+msgid "Tab"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1048
+msgid "Icon size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1073
+msgid "Teaser"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1097
+msgid "Icon (style 3 and 4 only)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1099
+msgid "Icon 1"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1100
+msgid "Icon 2"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1101
+msgid "Icon 3"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1113
+msgid "Subtitle (style 1,2 and 5 only)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1137
+msgid "Teaser 2"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1183
+msgid "Testimonials"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1185
+msgid "type - static/slider - default: slider"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1186
+msgid "category - testimonial categories"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1187
+msgid "limit - default: 3"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1196
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1197
+msgid "slider"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1198
+msgid "static"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1209
+msgid "Category ID"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1221
+msgid "Text"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1267
+msgid "no icon"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes.php:1274
+msgid "empty"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/template-tags.php:433
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1397
+msgid "Pingback:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/template-tags.php:433
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/template-tags.php:455
+msgid "Edit"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/template-tags.php:459
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/template-tags.php:559
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1462
+msgid "Home"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/template-tags.php:560
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1475
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/template-tags.php:561
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1488
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/template-tags.php:562
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1501
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/top.php:13
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/template-tags.php:563
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/top.php:39
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/template-tags.php:564
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1540
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/top.php:58
+msgid "404 Page Not Found"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:53
+msgid "General Settings"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:57
+msgid "Fonts"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:61
+msgid "Elements Color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:65
+msgid "Pages"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:69
+msgid "Sidebars"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:73
+msgid "Integration"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:77
+msgid "Contacts & Social"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:81
+msgid "Contact Form"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:85
+msgid "Translations"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:92
+msgid "Body class"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:104
+msgid "Wide 1170px"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:109
+msgid "Wide 960px"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:114
+msgid "Boxed 1170px"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:119
+msgid "Boxed 960px"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:126
+msgid "Custom logo"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:127
+msgid "Enter full URL of your logo image or choose upload button"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:138
+msgid "Logo top margin"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:139
+msgid "Enter number to set the top space of the logo"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:150
+msgid "Logo left margin"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:151
+msgid "Enter number to set the left space of the logo"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:162
+msgid "Logo bottom margin"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:163
+msgid "Enter number to set the bottom space of the logo"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:174
+msgid "Favicon"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:175
+msgid "Enter Full URL of your favicon image or choose upload button"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:187
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:199
+msgid "Enabled only when boxed layout is selected"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:198
+msgid "Background pattern"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:211
+msgid "Background image"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:212
+msgid ""
+"Choose \"Image\" option on \"Background pattern\" list and boxed layout to "
+"enable background"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:223
+msgid "Background repeat"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:235
+msgid "Repeat horizontally & vertically"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:240
+msgid "Repeat horizontally"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:245
+msgid "Repeat vertically"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:250
+msgid "No repeat"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:257
+msgid "Background position"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:286
+msgid "Background attachment"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:298
+msgid "Scroll"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:303
+msgid "Fixed"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:310
+msgid "Background size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:322
+msgid "Original"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:327
+msgid "Fits to browser size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:334
+msgid "Preheader text"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:335
+msgid "You can use phone or email here, html tags allowed"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:346
+msgid "Main menu style"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:359
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:360
+msgid "Show or hide breadcrumbs"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:383
+msgid "Show search icon in navigation"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:384
+msgid "Show or hide search form right to the main navigation"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:407
+msgid "Retina support"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:408
+msgid ""
+"If enabled all images should be uploaded 2x larger. Requires more server "
+"resources if enabled."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:419
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:443
+msgid "Disabled"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:424
+msgid "Enabled"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:431
+msgid "Show control panel"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:432
+msgid "Shows the Control Panel on your homepage if enabled."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:448
+msgid "Enabled for administrator"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:453
+msgid "Enabled for all"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:461
+msgid "Title font"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:462
+msgid "Font style for page title"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:474
+msgid "Title font size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:475
+msgid "The size of the page title in pixels"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:487
+msgid "Content font"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:488
+msgid "Font style for content"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:500
+msgid "Content font size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:501
+msgid "The size of the page content in pixels"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:513
+msgid "Menu font"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:514
+msgid "Font style for menu items"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:526
+msgid "Menu font size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:527
+msgid "The size of the menu elements in pixels"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:539
+msgid "Header font"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:540
+msgid "Font style for all headers (H1, H2 etc.)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:552
+msgid "H1 font size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:553
+msgid "The size of H1 elements in pixels"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:565
+msgid "H2 font size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:566
+msgid "The size of H2 elements in pixels"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:578
+msgid "H3 font size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:579
+msgid "The size of H3 elements in pixels"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:591
+msgid "H4 font size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:592
+msgid "The size of H4 elements in pixels"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:604
+msgid "H5 font size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:605
+msgid "The size of H5 elements in pixels"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:617
+msgid "H6 font size"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:618
+msgid "The size of H6 elements in pixels"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:631
+msgid "Main color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:632
+msgid "Main theme color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:644
+msgid "Main body text color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:645
+msgid "Main body text color, used for post content,"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:657
+msgid "Headers text color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:658
+msgid "Color of all headers"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:670
+msgid "Header background color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:683
+msgid "Menu background color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:684
+msgid "Background color of the menu (header style 1 and style 2 only)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:696
+msgid "Menu background transparency"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:709
+msgid "Sub menu background color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:710
+msgid "Background color of the sub menu item"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:722
+msgid "Footer background color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:735
+msgid "Footer headers color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:748
+msgid "Footer main text color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:774
+msgid "Copyrights bar backgrounds color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:787
+msgid "Copyrights bar text color"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:801
+msgid "Portfolio page"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:813
+msgid "Related projects"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:814
+msgid "Show related projects on a single post page"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:838
+msgid "Header scripts"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:839
+msgid ""
+"Scripts will be added to the header. Don't forget to add &lsaquo;"
+"script&rsaquo;;...&lsaquo;/script&rsaquo; tags."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:850
+msgid "Footer scripts"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:851
+msgid ""
+"Scripts will be added to the footer. You can use this for Google Analytics "
+"etc. Don't forget to add &lsaquo;script&rsaquo;...&lsaquo;/script&rsaquo; "
+"tags."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:862
+msgid "Actived items"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:863
+msgid "Items available on your website"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:874
+msgid "Twitter"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:879
+msgid "Facebook"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:884
+msgid "Skype"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:889
+msgid "Dribble"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:894
+msgid "Youtube"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:902
+msgid "URL to your Facebook account"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:914
+msgid "URL to your Twitter account"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:926
+msgid "Your Skype username"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:937
+msgid "Dribble URL"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:938
+msgid "URL to your Dribble account"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:949
+msgid "Youtube URL"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:950
+msgid "URL to your Youtube account"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:961
+msgid "Show recent tweet in the footer"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:962
+msgid "Above twitter url is used, tweet is refreshed every 20 minutes"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:986
+msgid "Email to receive messages from contact forms"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:999
+msgid ""
+"List of user defined sidebars. Please use \"save changes\" button after "
+"adding or editing sidebars."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1022
+msgid "Enable translations"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1046
+msgid "404 error text"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1111
+msgid "Post Comment"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1124
+msgid "Comment"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1150
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1436
+msgid "Comments are closed"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1163
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/posts_slider.php:95
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/recent_posts.php:57
+msgid "No comments"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1176
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1189
+#, php-format
+msgid "Logged in as %2$s"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1202
+msgid "Your email address will not be published."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1215
+#, php-format
+msgid "You may use these HTML tags and attributes: %s"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1267
+msgid "Website"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1306
+msgid "Read More &rarr;"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1358
+msgid "Tags"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1371
+msgid "Date"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1384
+msgid "In"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1410
+#, php-format
+msgid "%1$s comments on \"%2$s\""
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1423
+#, php-format
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1449
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1514
+#, php-format
+msgid "Posts_by %s"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1553
+#, php-format
+msgid "Posts made in %s (eg. Posts made in January)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1566
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Tweets_Widget.class.php:130
+msgid "No tweets"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1579
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Tweets_Widget.class.php:132
+msgid "follow"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1592
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Multi_Posts_Widget.class.php:51
+msgid "Popular"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1605
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Multi_Posts_Widget.class.php:52
+msgid "Recent"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1631
+msgid "Search"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1644
+msgid "About Project"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1657
+msgid "Job Description"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1670
+msgid "Launch Project"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1683
+msgid "Load_More"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1696
+msgid "No more pages to load"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1709
+msgid "Please fill all required fields"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1722
+msgid "Please check your email"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1748
+msgid "Server error. Pease try again later (contact form)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1936
+msgid "None"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1942
+msgid "Image (choose below)"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1957
+msgid "AZ Subtle"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1962
+msgid "Crips Paper Ruffles"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1967
+msgid "Escheresque"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1972
+msgid "Escheresque ste"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1977
+msgid "Gradient Squares"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1982
+msgid "Kinda Jean"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1987
+msgid "Noisy Grid"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1992
+msgid "Maze White"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:1997
+msgid "Retina Wood"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/theme-options.php:2002
+msgid "Shattered"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/top.php:45
+msgid "Blog"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/tweaks.php:64
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/tweaks.php:173
+msgid "&laquo; Previous"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/tweaks.php:65
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/tweaks.php:174
+msgid "Next &raquo;"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/latest_works.php:11
+msgid "Latest Works"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/person_details.php:50
+msgid "Personal Details"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/posts_slider.php:99
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/recent_posts.php:61
+msgid "1 Comment"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/posts_slider.php:103
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/recent_posts.php:65
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/posts_slider.php:146
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/shortcodes/recent_posts.php:105
+msgid "Read more"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Flickr_Tiles_Widget.class.php:13
+msgid "Displays Flickr images"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Flickr_Tiles_Widget.class.php:14
+msgid "Flickr Tiles"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Flickr_Tiles_Widget.class.php:46
+msgid "Flickr"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Flickr_Tiles_Widget.class.php:145
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Posts_Widget.class.php:107
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Popular_Posts_Widget.class.php:103
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Random_Work_Widget.class.php:109
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Side_Navi_Widget.class.php:78
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Social_Icons_Widget.class.php:108
+msgid "Title:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Flickr_Tiles_Widget.class.php:147
+msgid "Flickr RSS Feed URL:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Flickr_Tiles_Widget.class.php:148
+msgid "or User ID:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Flickr_Tiles_Widget.class.php:149
+msgid "API Key"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Flickr_Tiles_Widget.class.php:150
+msgid "Limit items"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Flickr_Tiles_Widget.class.php:151
+msgid "Filter by tags (comma seperated):"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Posts_Widget.class.php:13
+msgid "Displays the most latest posts"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Posts_Widget.class.php:14
+msgid "Latest Posts"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Posts_Widget.class.php:47
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Popular_Posts_Widget.class.php:14
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Popular_Posts_Widget.class.php:45
+msgid "Popular Posts"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Posts_Widget.class.php:110
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Popular_Posts_Widget.class.php:106
+msgid "Number of posts to show:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Tweets_Widget.class.php:14
+msgid "Latest Tweets Widget"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Tweets_Widget.class.php:14
+msgid "Tweets from Twitter account"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Tweets_Widget.class.php:33
+msgid "Twitter user:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Tweets_Widget.class.php:34
+msgid "Show:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Latest_Tweets_Widget.class.php:35
+msgid "Widget title:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Multi_Posts_Widget.class.php:13
+msgid "Displays tabs with most popular posts, recent posts and comments"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Multi_Posts_Widget.class.php:14
+msgid "Multi Posts"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Multi_Posts_Widget.class.php:179
+msgid "No options here"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Popular_Posts_Widget.class.php:13
+msgid "Displays the most popular posts"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Random_Work_Widget.class.php:13
+msgid "Display one random portoflio item"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Random_Work_Widget.class.php:14
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Random_Work_Widget.class.php:46
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Social_Icons_Widget.class.php:46
+msgid "Random Work"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Side_Navi_Widget.class.php:13
+msgid "Shows choosen WordPress pages"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Side_Navi_Widget.class.php:14
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Side_Navi_Widget.class.php:20
+msgid "Side Navi"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Side_Navi_Widget.class.php:80
+msgid "Sort by:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Side_Navi_Widget.class.php:82
+msgid "Page title"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Side_Navi_Widget.class.php:83
+msgid "Page order"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Side_Navi_Widget.class.php:84
+msgid "Page ID"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Side_Navi_Widget.class.php:88
+msgid "Include:"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Side_Navi_Widget.class.php:90
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Social_Icons_Widget.class.php:13
+msgid "Display social icons activated in theme options"
+msgstr ""
+
+#: c:\wamp\www\arenaofthemes\circles\wp-content\themes\circles/inc/widgets/WP_Social_Icons_Widget.class.php:14
+msgid "Social Icons"
+msgstr ""
