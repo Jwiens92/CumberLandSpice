@@ -152,7 +152,7 @@ add_theme_support( 'woocommerce' );
 define ('TINY_EXCERPT',12);
 define ('SHORT_EXCERPT',22);
 define ('REGULAR_EXCERPT',55);
-define ('LONG_EXCERPT',55);
+define ('LONG_EXCERPT',80);
 
 define ('SLIDER_PREV_TEXT',"Left");
 define ('SLIDER_NEXT_TEXT',"Right");
@@ -1031,4 +1031,43 @@ function ts_hide_woocommerce_page_title($content) {
 
 add_filter('woocommerce_show_page_title','ts_hide_woocommerce_page_title');
 
+/**
+ * Start of Joshua Wiens Changes.
+ */
 
+require_once(__DIR__ . '/lib/CustomPostType.php');
+require_once(__DIR__ . '/lib/CustomPostTypes.php');
+require_once(__DIR__ . '/lib/MetaBox.php');
+require_once(__DIR__ . '/lib/Settings.php');
+
+require_once(__DIR__ . '/custom-posts/homepage-slider-post.php');
+require_once(__DIR__ . '/custom-posts/website-options.php');
+
+//Enqueue Custom Scripts
+function enqueue_scripts() {
+    wp_enqueue_style( 'bootstrap-css',  get_stylesheet_directory_uri().'/css/bootstrap.css' );
+    wp_enqueue_script( 'bootstrap-js', get_stylesheet_directory_uri() . '/js/bootstrap.js', array('jquery'), 'null', true );
+}
+add_action( 'wp_enqueue_scripts', 'enqueue_scripts');
+
+function getTimeInterval(){
+
+	$args = array(
+		'post_status' => 'publish',
+		'post_type' => 'websiteoptions',
+		'orderby' => 'menu_order',
+		'order' => 'ASC'
+	);
+	$options = new WP_Query($args);
+
+	if($options->post->timeinterval != ''){
+		return $options->post->timeinterval;
+	}
+	else{
+		return 5000;
+	}
+}
+
+/**
+ * End of Joshua Wiens Changes
+ */

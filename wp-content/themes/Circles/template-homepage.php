@@ -3,7 +3,8 @@
 * Template Name: Homepage
 */
 get_header();
-get_template_part('inc/header-image'); ?>
+get_template_part('inc/home_slider'); ?>
+<div style="clear:both;"></div>
 <?php /* Start the Loop */ ?>
 <?php while ( have_posts() ) : the_post(); ?>
 	<?php if (get_post_meta(get_the_ID(), 'show_page_content',true) != 'no'): ?>

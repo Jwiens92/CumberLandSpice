@@ -41,3 +41,163 @@ footer ul li a {
 footer ul li a:hover {
 	color: #bbb;
 }
+
+/**
+* START of CSS by Joshua Wiens
+**/
+
+.sliderBackground{
+    height: 354px;
+    background-size: cover !important;
+}
+ul, ol {
+	margin-top: -12px;
+	margin-bottom: 10px;
+}
+ul, ol {
+	margin-top: 0;
+	margin-bottom: 0 !important;
+}
+.bannerText{
+	padding-top: 40px;
+}
+.page-header {
+	padding-bottom: 9px;
+	margin: 0 0 20px !important;
+	border-bottom: 1px solid #eee;
+}
+.post.center .item-con-t1 {
+	width: 72%;
+	float: left;
+	margin-right: 20px
+}
+.post-body-text p {
+	margin-top: 0;
+	font-size: 17px;
+}
+.facebookButton{
+	background: #3b5998;
+	color: white;
+	display: block;
+	width: 180px;
+	height: 33px;
+	text-align: center;
+	padding-top: 12px;
+	border-radius: 3px;
+}
+.customContact{
+	display: none !important;
+	text-align: center;
+	margin: auto;
+	height: 22px !important;
+	width: auto !important;
+	background-image: none !important;
+	float: none;
+	position: inherit !important;
+}
+footer .grid_3{
+	min-height: 235px;
+}
+img {
+	vertical-align: inherit !important;
+}
+.headline h1 {
+	font-size: 20px;
+	white-space: inherit !important;
+}
+.paddingTop{
+	padding-top: 30px;
+}
+.bannerWrap{
+	padding-right: 0;
+}
+.singleImage{
+	width: 100%;
+}
+.singleDiv{
+	width: 60%;
+	float: left;
+	padding-right: 20px;
+}
+.previewDiv{
+	width: 70%;
+	height: 300px;
+	float: left;
+	margin-right: 20px;
+}
+@media (max-width:767px) {
+	.singleDiv{
+		width: 100%;
+	}
+	.previewDiv{
+		width: 100%;
+		height: 250px;
+	}
+	.post-body-text p {
+		margin-top: 0;
+		font-size: 15px;
+	}
+	.page-header {
+		border-bottom: none !important;
+	}
+	.customContact{
+		display: block !important;
+	}
+	.post.center .item-con-t1 {
+		width: 100%;
+		float: none;
+		margin-right: 0;
+	}
+	footer .grid_3{
+		min-height: 0;
+		text-align: center;
+		display: block;
+		float: none;
+		margin: auto;
+	}
+	footer .grid_3 .facebookButton{
+		text-align: center;
+		display: block;
+		float: none;
+		margin: auto;
+	}
+	.mini_logo {
+		height: 60px;
+		margin-top: 10px;
+	}
+}
+@media (max-width:1000px) {
+	.singleDiv{
+		width: 100%;
+	}
+	.previewDiv{
+		width: 100%;
+		height: 250px;
+	}
+
+}
+@media(min-width: 668px) and (max-width:767px){
+	.bannerWrap{
+		padding-left: 80px !important;
+	}
+
+}
+@media(min-width:768px) and (max-width: 991px){
+	.post.center .item-con-t1 {
+		width: 100%;
+		float: none;
+		margin-right: 0;
+	}
+}
+@media(min-width:992px) and (max-width: 1199px){
+
+}
+@media(min-width:1200px){
+	.bannerWrap{
+		padding-left: 45px !important;
+	}
+}
+
+/**
+* END of CSS by Joshua Wiens
+**/

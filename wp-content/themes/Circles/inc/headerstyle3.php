@@ -80,7 +80,7 @@
 
 			<div class='grid_12'>
 							<?php if (ot_get_option('sticky_logo_url')): ?>
-				<?php echo '<img class="mini_logo tran03slinear" src="'.ot_get_option('sticky_logo_url').'" alt="'.esc_attr( get_bloginfo( 'name', 'display' ) ).'">'; ?>
+			<a href="<?php echo home_url() ?>"><?php echo '<img class="mini_logo tran03slinear" src="'.ot_get_option('sticky_logo_url').'" alt="'.esc_attr( get_bloginfo( 'name', 'display' ) ).'">'; ?></a>
 			<?php else: ?>
 				<?php echo '<img class="mini_logo tran03slinear" src="'.get_bloginfo('template_directory').'/images/logo.png" alt="'.esc_attr( get_bloginfo( 'name', 'display' ) ).'">'; ?>
 			<?php endif;?>
@@ -157,6 +157,12 @@
 						<a class='linkedin tran02slinear' href='<?php echo ot_get_option('linkedin_url'); ?>' title="LinkedIn" target="_blank"></a>
 					</li>
 				<?php endif;?>
+                <?php if (ot_get_option('header_phone')): ?>
+                    <a class="customContact" href="#"><i class="icon-envelope "> </i> <?php echo ot_get_option('header_phone'); ?></a>
+                <?php endif; ?>
+                <?php if (ot_get_option('header_email')): ?>
+                    <a class="customContact" href="mailto:<?php echo ot_get_option('header_email'); ?>"><i class="icon-phone"> </i> <?php echo ot_get_option('header_email'); ?></a>
+                <?php endif; ?>
 			</ul>
 		</div>
 	</div>

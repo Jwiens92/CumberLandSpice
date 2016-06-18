@@ -52,7 +52,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['form_submit']) && $_PO
 get_header(); ?>
 <?php /* Start the Loop */ ?>
 <?php while ( have_posts() ) : the_post(); ?>
-	<div class='wrapper top-slider' id="map-box"><?php echo do_shortcode(get_post_meta(get_the_ID(), 'map',true)); ?></div>
+	<a href="https://www.google.com/maps/place/1633+W+Main+St+%23401,+Lebanon,+TN+37087/@36.2212508,-86.342845,17z/data=!3m1!4b1!4m2!3m1!1s0x8864221c50a01ce5:0x55901e1d880923f0" target="_blank">
+	<div class='wrapper top-slider' id="map-box"><?php echo do_shortcode(get_post_meta(get_the_ID(), 'map',true)); ?></div></a>
 	<div class='wrapper'>
 		<div class='container contacts'>
 			<section class='grid_3'>

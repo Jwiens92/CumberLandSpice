@@ -24,14 +24,14 @@ function ts_get_used_googe_web_fonts()
 	if (is_page()) {
 		$page = get_page( get_the_ID() );
 		preg_match_all('/google_web_font_[a-zA-Z0-9. ]*+/i',$page -> post_content,$matches);
-		
+
 		if (isset($matches[0]) && is_array($matches[0])) {
 			foreach ($matches[0] as $font) {
 				$fonts[] = $font;
 			}
 		}
 	}
-	
+
 	$fonts_to_get = array();
 	$fonts_to_get[] = 'Open Sans';
 	$fonts_return = array();
@@ -49,7 +49,7 @@ function ts_get_used_googe_web_fonts()
 		}
 		$fonts_return[$key] = $tmp;
 	}
-	
+
 	$fonts_to_get = array_unique($fonts_to_get);
 
 	if (count($fonts_to_get) > 0)
@@ -70,7 +70,7 @@ if ( ! function_exists( 'theme_styles' ) ) :
 function theme_styles()
 {
 	$fonts = ts_get_used_googe_web_fonts();
-	
+
 	$content_font = isset($fonts['content_font']) ? $fonts['content_font'] : '';
 	$title_font = isset($fonts['title_font']) ? $fonts['title_font'] : '';
 	$menu_fontt = isset($fonts['menu_font']) ? $fonts['menu_font'] : '';
@@ -81,7 +81,7 @@ function theme_styles()
 			body,
 			article .column_post-body,
 			.post-body-text,
-			.post-area 
+			.post-area
 			{ font-family: '<?php echo $content_font; ?>'; }
 		<?php endif; ?>
 
@@ -147,36 +147,36 @@ function theme_styles()
 		<?php endif; ?>
 
 		<?php if (
-				in_array(ot_get_option('body_class'),array('b1170','b960')) && (!isset($_GET['switch_layout']) || in_array($_GET['switch_layout'],array('b1170','b960'))) || 
+				in_array(ot_get_option('body_class'),array('b1170','b960')) && (!isset($_GET['switch_layout']) || in_array($_GET['switch_layout'],array('b1170','b960'))) ||
 				isset($_GET['switch_layout']) && ($_GET['switch_layout'] == 'b1170' || $_GET['switch_layout'] == 'b960') ||
-				(ts_check_if_use_control_panel_cookies() && isset($_COOKIE['theme_body_class']) && in_array($_COOKIE['theme_body_class'],array('b1170','b960') ) ) 
+				(ts_check_if_use_control_panel_cookies() && isset($_COOKIE['theme_body_class']) && in_array($_COOKIE['theme_body_class'],array('b1170','b960') ) )
 			): ?>
 			body {
-				
+
 				<?php if (isset($_GET['switch_layout']) && ($_GET['switch_layout'] == 'b1170' || $_GET['switch_layout'] == 'b960') ): ?>
 					background-image: url(<?php echo get_template_directory_uri(); ?>/images/body-bg/dark_wood.png);
 					background-attachment: fixed;
-				
+
 				<?php elseif (ts_check_if_control_panel() && isset($_COOKIE['theme_background']) && !empty($_COOKIE['theme_background'])): ?>
-					background-image: url(<?php echo get_template_directory_uri(); ?>/images/<?php echo $_COOKIE['theme_background']; ?>); 
+					background-image: url(<?php echo get_template_directory_uri(); ?>/images/<?php echo $_COOKIE['theme_background']; ?>);
 					background-repeat: no-repeat;
 					background-position: center;
 					background-attachment: fixed;
-				
+
 				<?php elseif (ot_get_option('background_pattern') == 'image' && ot_get_option('background_image') != '' ): ?>
 					background-image: url(<?php echo ot_get_option('background_image'); ?>);
-					
+
 					<?php if (ot_get_option('background_attachment') != '' ): ?>
 						background-attachment: <?php echo ot_get_option('background_attachment'); ?>;
 					<?php endif; ?>
-						
+
 				<?php elseif (ot_get_option('background_pattern') != 'none' ): ?>
 					background-image: url(<?php echo get_template_directory_uri(); ?>/images/body-bg/<?php echo ot_get_option('background_pattern'); ?>);
-					
+
 					<?php if (ot_get_option('background_attachment') != '' ): ?>
 						background-attachment: <?php echo ot_get_option('background_attachment'); ?>;
 					<?php endif; ?>
-					
+
 				<?php endif; ?>
 				<?php if (ot_get_option('background_color') != '' ): ?>
 					background-color: <?php echo ot_get_option('background_color'); ?>;
@@ -204,13 +204,13 @@ function theme_styles()
 				margin-bottom: <?php echo ot_get_option('logo_bottom_margin'); ?>px;
 			<?php endif; ?>
 		}
-		
+
 		<?php
 		if (is_page()):
 			$title_bar_text_color = get_post_meta(get_the_ID(),'title_bar_background_text_color',true);
 			if (!empty($title_bar_text_color)): ?>
 
-				.headline h1, 
+				.headline h1,
 				.page-path span,
 				.page-path a {
 					color: <?php echo $title_bar_text_color; ?> !important;
@@ -237,7 +237,7 @@ endif;
 function ts_the_theme_dynamic_styles($ajax_request = true)
 {
 	$main_color = ot_get_option('main_color');
-	
+
 	//change color if control panel is enabled
 	if (ts_check_if_control_panel())
 	{
@@ -257,7 +257,7 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 	<?php if (1 == 2): //fake <style> tag, reguired only for editor formatting, please don't remove ?>
 		<style>
 	<?php endif; ?>
-	
+
 	<?php if (in_array(ot_get_option('body_class'),array('w1170','w960')) && ot_get_option('main_body_background_color')): ?>
 		body {
 			background: <?php echo ot_get_option('main_body_background_color'); ?>
@@ -265,13 +265,13 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 	<?php endif; ?>
 	<?php if (in_array(ot_get_option('body_class'),array('b1170','b960')) && ot_get_option('main_body_background_color')): ?>
 		.b1170 .page-header>.wrapper,
-		.b960 .page-header>.wrapper, 
+		.b960 .page-header>.wrapper,
 		.b1170>div.wrapper,
 		.b960>div.wrapper {
 			background: <?php echo ot_get_option('main_body_background_color'); ?>
 		}
 	<?php endif; ?>
-	
+
 	<?php if ($main_color): ?>
 		/* main_color */
 		<?php ts_get_main_color_classes() ?>
@@ -346,14 +346,14 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 			-webkit-box-shadow: inset 1px 0 0 0  <?php echo $main_color; ?>;
 			box-shadow: inset 1px 0 0 0  <?php echo $main_color; ?>;
 		}
-		
+
 		.vertical.top-right .z-active .z-link {
 			-webkit-box-shadow: inset -1px 0 0 0  <?php echo $main_color; ?>;
 			box-shadow: inset -1px 0 0 0  <?php echo $main_color; ?>;
 		}
-		
-		.bottom-left .z-active .z-link, 
-		.bottom-right .z-active .z-link, 
+
+		.bottom-left .z-active .z-link,
+		.bottom-right .z-active .z-link,
 		.bottom-center .z-active .z-link {
 			box-shadow: inset 0 -1px 0 0 <?php echo $main_color; ?>;
 		}
@@ -379,7 +379,7 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 			background-color: <?php echo ot_get_option('header_background_color'); ?>;
 		}
 	<?php endif; ?>
-		
+
 	<?php if (ot_get_option('page_title_background_color')): ?>
 		/* page_title_background_color */
 		<?php ts_get_page_title_background_color_classes(true); ?>
@@ -387,7 +387,7 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 			background-color: <?php echo ot_get_option('page_title_background_color'); ?> !important;
 		}
 	<?php endif; ?>
-		
+
 	<?php if (ot_get_option('menu_background_color')): ?>
 		/* menu_background_color */
 		<?php ts_get_menu_background_color_classes(true); ?>
@@ -395,7 +395,7 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 			background-color: <?php echo ts_hex_to_rgb(ot_get_option('menu_background_color'),ot_get_option('menu_background_transparency')) ; ?>;
 		}
 	<?php endif; ?>
-		
+
 	<?php if (ot_get_option('headers_text_color')): ?>
 		/* headers_text_color */
 		<?php ts_get_headers_text_color_classes(true); ?>
@@ -420,7 +420,7 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 	<?php endif; ?>
 
 	<?php if (ot_get_option('sub_menu_background_color')): ?>
-		
+
 		<?php if (in_array(ts_get_main_menu_style(),array('style4')) || (isset($_GET['switch_main_menu_style']) && in_array($_GET['switch_main_menu_style'],array('style4')))): ?>
 			<?php ts_get_sub_menu_background_color_2_classes(true); ?>
 			{
@@ -436,7 +436,7 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 			background-color: transparent;
 		}*/
 	<?php endif; ?>
-	
+
 	<?php if (ot_get_option('body_background_color_1')): ?>
 		/* body_background_color_1 */
 		<?php ts_get_body_background_color_1_classes(true); ?>
@@ -444,7 +444,7 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 			background-color: <?php echo ot_get_option('body_background_color_1'); ?> !important;
 		}
 	<?php endif; ?>
-		
+
 	<?php if (ot_get_option('body_background_color_2')): ?>
 		/* body_background_color_2 */
 		<?php ts_get_body_background_color_2_classes(true); ?>
@@ -452,7 +452,7 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 			background-color: <?php echo ot_get_option('body_background_color_2'); ?> !important;
 		}
 	<?php endif; ?>
-	
+
 	<?php if (ot_get_option('preheader_background_color')): ?>
 		/* preheader_background_color */
 		<?php ts_get_preheader_background_color_classes(true); ?>
@@ -468,7 +468,7 @@ function ts_the_theme_dynamic_styles($ajax_request = true)
 			color: <?php echo ot_get_option('preheader_text_color'); ?> !important;
 		}
 	<?php endif; ?>
-		
+
 	<?php if (ot_get_option('footer_background_color')): ?>
 		/* footer_background_color */
 		<?php ts_get_footer_background_color_classes(true); ?>
@@ -704,7 +704,7 @@ function ts_the_breadcrumbs() {
   } else {
 
     echo '<div id="crumbs" xmlns:v="http://rdf.data-vocabulary.org/#">' . sprintf($link, $homeLink, $text['home']) . $delimiter;
-	
+
 	if (function_exists('is_shop') && is_shop()) {
 		echo $before . __('Shop','circles') . $after;
 	} else if ( is_category() ) {
@@ -735,14 +735,14 @@ function ts_the_breadcrumbs() {
     } elseif ( is_single() && !is_attachment() ) {
       if ( get_post_type() != 'post' ) {
         $post_type = get_post_type_object(get_post_type());
-		
+
 		if ($post_type -> query_var == 'product') {
 			$label = __('Shop','circles');
 		} else {
 			$label = $post_type->labels->singular_name;
 		}
 		$slug = $post_type->rewrite;
-		
+
 		$portfolio_page_id = null;
 		if (get_post_type() == 'portfolio') {
 			$portfolio_page_id = ot_get_option('portfolio_page');
@@ -840,7 +840,7 @@ function ts_get_post_slider($post_id)
 		$id = str_replace('flexslider-','',$a);
 		return do_shortcode('[flexslider id="'.$id.'"]');
 	}
-	
+
 	if (strstr($a,'banner-builder'))
 	{
 		$id = str_replace('banner-builder-','',$a);

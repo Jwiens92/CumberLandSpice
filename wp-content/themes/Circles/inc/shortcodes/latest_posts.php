@@ -162,6 +162,7 @@ function ts_latest_posts_func( $atts, $content = null ) {
 							</div>
 							<header>
 								<a href='".get_permalink()."'><h2>".get_the_title()."</h2></a>
+								<p>".get_post_meta($post->ID)['_aioseop_description'][0]."</p>
 							</header>
 						</div>
 					</article>

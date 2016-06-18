@@ -272,6 +272,26 @@ function ts_custom_meta_boxes() {
 					)
 				)
 			),
+            array(
+                'id' => 'scale',
+                'label' => __('Featured image Scale', 'framework'),
+                'desc' => '',
+                'std' => '',
+                'type' => 'select',
+                'class' => '',
+                'choices' => array(
+                    array(
+                            'value' => 'cover',
+                            'label' => __('Cover', 'framework'),
+                            'src' => ''
+                    ),
+                    array(
+                            'value' => 'contain',
+                            'label' => __('Contain', 'framework'),
+                            'src' => ''
+                    )
+                )
+            ),
 			array(
 				'id' => 'post_slider',
 				'label' => __('Slider', 'framework'),

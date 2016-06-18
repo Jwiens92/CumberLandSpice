@@ -84,7 +84,7 @@ $classes = array(
 			$thumb = '<div class="videoWrapper">'.$thumb.'</div>';
 			break;
 		default:
-			$thumb = ts_get_resized_post_thumbnail_sidebar($post -> ID, array('full', 'one-sidebar', 'two-sidebars'),get_the_title());
+			$thumb = "<img class='singleImage' src=". wp_get_attachment_url( get_post_thumbnail_id($post->ID, 'thumbnail')). " >";
 			break;
 	}
 	?>
@@ -94,14 +94,9 @@ $classes = array(
 	<?php get_template_part( 'inc/post-info' ); ?>
 	<div class="post-body clearfix">
 		<?php if ( !empty($thumb) ): ?>
-			<article class='item-con-t1'>
-				<div class='container-t1'>
-					<div class='container-t1-margin'>
-						<?php echo $thumb; ?>
-					</div>
-				</div>
-				<div class='blue-line'></div>
-			</article>
+			<div class="singleDiv">
+				<?php echo $thumb; ?>
+			</div>
 		<?php endif; ?>
 		<div class='post-body-text'>
 			<?php the_content( ); ?>

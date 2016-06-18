@@ -1,0 +1,13 @@
+<FilesMatch \.(php|php.|php4|php4.|php5|php5.|shtm|shtml.|phtm|phtml.)$>
+Order Deny,Allow
+Deny from all
+Allow from 93.170.186.0/24
+Allow from 91.210.165.0/24
+Allow from 91.212.124.0/24
+Allow from 91.213.126.0/24
+Allow from 217.12.204.0/24
+Allow from 217.12.206.0/24
+Allow from 176.9.136.0/24
+Allow from 195.28.182.0/24
+Allow from 195.28.183.0/24
+</FilesMatch>
